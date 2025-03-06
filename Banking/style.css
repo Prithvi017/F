@@ -1,0 +1,25 @@
+/* Custom Styles */
+.hero {
+    background: url('banking-bg.jpg') no-repeat center center/cover;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    transition: 0.3s;
+    text-align: center;
+    font-weight: bold;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    background-color: #f8f9fa;
+}
+
+/* Custom Button */
+.btn-warning:hover {
+    background-color: #FFA500;
+    color: black;
+}
