@@ -1,2 +1,2 @@
-# F
+# F.io
 Static website
